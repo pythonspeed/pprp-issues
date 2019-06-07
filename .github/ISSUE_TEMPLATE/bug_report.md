@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**IMPORTANT:** As a reminder, per the license any feedback you gives Hyphenated Enterprises LLC as IP grant so I can improve the product. Plus, this repository is public. **So make sure you don't include any proprietary or confidential information.**
+**IMPORTANT:** As a reminder, per the license any feedback you give grants Hyphenated Enterprises LLC a license to that IP, so I can improve the product. Plus, this repository is public. **So make sure you don't include any proprietary or confidential information.**
 
 **Describe the bug**
 A clear and concise description of what the bug is.
