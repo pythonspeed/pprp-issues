@@ -1,5 +1,4 @@
-# Support for Production-Ready Python Containers
+# Archived
 
-Use this repository to report issues and problems with [Production-Ready Python Containers](https://pythonspeed.com/products/pythoncontainer/). Just [open an issue](https://github.com/pythonspeed/prpc-issues/issues/new/choose) with your problem/question.
-
+For template support, just email [itamar@pythonspeed.com](mailto:itamar@pythonspeed.com).
 
